@@ -1,0 +1,36 @@
+ img{
+    	height: 225px
+    }
+     body{
+    	color: white
+    	background-image:url("images/footbal.jpg");
+    	background-color:orange;
+        }
+.p{
+	text-align: center;
+	background-image: url("images/loga.jpg");height: 380;
+  }
+  .q{
+ text-align: center;
+ background-image: url("images/amg.jpg"); height:370;
+color:white;
+ }
+.r{
+	text-align: center;
+	background-image: url("images/fcbb.jpg");height: 370;
+	color: white
+}
+.s{
+	text-align: center;
+	background-image: url(images/rmm.jpg); height: 370;
+	color: white
+}
+.t{
+	text-align: center;
+	background-image: url(images/fvc.jpg);height: 370;
+	color: white
+}
+.contact{
+	background-color:orange;
+	color: white
+}

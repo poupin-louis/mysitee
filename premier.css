@@ -1,0 +1,46 @@
+ img{
+    	height: 225px
+    }
+    body{
+    	color: white
+    	background-image:url("images/footbal.jpg");
+    	background-color: rgb(10,80,130);
+        }
+.zwa{
+	text-align: center;
+	background-image: url("images/fdp.png");height: 291;
+  }
+  .arouf{
+ text-align: center;
+ background-image: url("images/fear.jpg"); height:370;
+color:white;
+ }
+.car{
+	text-align: center;
+	background-image: url("images/che.jpg");height: 370;
+	color: white
+}
+.bra{
+	text-align: center;
+	background-image: url(images/rrtt.jpg); height: 370;
+	color: white
+}
+.bnp{
+	text-align: center;
+	background-image: url(images/guard.jpg);height: 370;
+	color: white
+}
+.bol{
+	text-align: center;
+	background-image: url(images/lfcc.jpg);height: 370;
+	color: white
+}
+.zet{
+	text-align: center;
+	background-image: url(images/spuurs.jpg);height: 370;
+	color: white
+}
+.contact{
+	background-color: rgb(10,80,130);
+	color: white
+}

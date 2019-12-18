@@ -1,0 +1,40 @@
+ img{
+    	height: 225px
+    }
+    body{
+    	color: white
+    	background-image:url("images/footbal.jpg");
+        }
+.j{
+	text-align: center;
+	background-image: url("images/bundes.png");height: 291;
+  }
+  .k{
+ text-align: center;
+ background-image: url("images/bayern.jpg"); height:370;
+color:white;
+ }
+.l{
+	text-align: center;
+	background-image: url("images/bvvb.jpg");height: 370;
+	color: white
+}
+.m{
+	text-align: center;
+	background-image: url(images/rbll.jpg); height: 370;
+	color: white
+}
+.n{
+	text-align: center;
+	background-image: url(images/schh.jpg);height: 370;
+	color: white
+}
+.o{
+	text-align: center;
+	background-image: url(images/rbcc.jpg);height: 370;
+	color: white
+}
+.contact{
+	background-color:black;
+	color: white
+}
